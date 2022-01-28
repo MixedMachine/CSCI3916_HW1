@@ -1,0 +1,22 @@
+{
+  "name": "csc3916_hw1",
+  "version": "1.0.0",
+  "description": "CSC3916 HW1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnmccarthy/CSC3916_HW01.git"
+  },
+  "keywords": [
+    "Echo"
+  ],
+  "author": "Shawn McCarthy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shawnmccarthy/CSC3916_HW01/issues"
+  },
+  "homepage": "https://github.com/shawnmccarthy/CSC3916_HW01#readme"
+}
